@@ -1,8 +1,9 @@
 /**
-Author : Zubayer Rahman
-Email  : zubayer.csesust@gmail.com
-CPU    : 0.12s
-Memory : 20M
+Author    : Zubayer Rahman
+Email     : zubayer.csesust@gmail.com
+CPU       : 0.12s
+Memory    : 20M
+Algorithm : Segment Tree (Lazy Propagation)
 */
 
 #include<bits/stdc++.h>
