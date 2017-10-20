@@ -1,6 +1,7 @@
 /**
 Online Judge : SPOJ
 Problem No   : 10798
+Problem Name : WACHOVIA - Wachovia Bank
 Author       : Zubayer Rahman
 Email        : zubayer.csesust@gmail.com
 CPU          : 0.02s
