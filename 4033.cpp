@@ -4,7 +4,7 @@ Problem No   : 4033
 Problem Name : PHONELST - Phone List
 Author       : Zubayer Rahman
 Email        : zubayer.csesust@gmail.com
-CPU          : 0.2s
+CPU          : 0.20s
 Memory       : 21M
 Algorithm    : Trie
 */
